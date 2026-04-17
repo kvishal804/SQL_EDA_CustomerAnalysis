@@ -1,0 +1,17 @@
+Cohort = group of customers who joined in same year
+
+Cohort analysis helps evaluate customer retention by grouping customers based on their acquisition period and tracking their behavior over time.
+
+1. Retention Tracking
+	Do customers acquired in a given period return in later periods?
+2. Customer Quality
+	Which year had better customers?
+3. Business Impact
+	You can answer:
+
+Are we improving retention?
+Are new customers worse than old ones?
+When do customers churn?
+
+
+Cohort = group of customers who joined in same year
